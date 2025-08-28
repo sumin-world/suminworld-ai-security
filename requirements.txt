@@ -1,4 +1,12 @@
+# requirements.txt
+
+# Core scientific
+numpy
+sympy
+
+# Deep learning (CPU only)
 torch
 torchvision
-numpy
+
+# Visualization
 matplotlib
